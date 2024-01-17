@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Nest.js, Docker**
 
-- 👨‍💻 All of my projects are available at [https://aman-paul.netlify.app/](https://aman-paul.netlify.app/)
-
 - 💬 Ask me about **MERN, Node, Express, Next.js, React.js, React Native Expo, JavaScript, TypeScript, GraphQL and much more..**
 
 - 📫 How to reach me **amanpaul155@gmail.com**
